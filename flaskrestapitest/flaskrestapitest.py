@@ -3,7 +3,6 @@
 Project long description or extended summary goes in here (default ini)
 '''
 
-
 import argparse
 import configparserext
 import logging
