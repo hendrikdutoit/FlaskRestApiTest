@@ -13,7 +13,6 @@ from termcolor import colored
 from beetools import beeutils
 from beetools.beearchiver import Archiver
 
-
 _PROJ_DESC = __doc__.split('\n')[0]
 _PROJ_PATH = Path(__file__)
 
